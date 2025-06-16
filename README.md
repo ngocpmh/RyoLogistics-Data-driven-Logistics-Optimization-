@@ -9,11 +9,12 @@ Ryo's SLA Policy:
   + Orders that arrive at the destination hub before 11:00 AM must be successfully delivered on the same day.
   + If they arrive after 11:00 AM, they must be delivered by the next working day, with status granular_status = 'Completed'. This also excludes Sundays and public holidays.
 
-1. Operations Department
+**A. Operations Department**
 
 Goals:
 - Track order progress and analyze delivery performance
 - Evaluate delivery staff efficiency and performance at each hub
+
 Requirements:
 - Order progress tracking:
   + Track parcel volumes by delivery status over time (year, quarter, month).
@@ -26,11 +27,13 @@ Requirements:
   + Analyze factors affecting performance such as parcel size, region, shipper, and driver behavior.
   + Propose improvements in staffing, routing, or operational strategy to increase efficiency.
 
- 2. Sales Department
+**B. Sales Department**
+
 Goals:
 - Develop reports to shopping trends and analyze customer behaviour
 - Identify patterns and reasons behind order cancellations.
 - Explore geographic and seasonal shopping behavior to support market expansion and sales strategies.
+  
 Requirements:
 - Buying behaviour analysis:
   + Analyze overall parcel trends to identify high-demand periods, popular product categories, and regional differences.
