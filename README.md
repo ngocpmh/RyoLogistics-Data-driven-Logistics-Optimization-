@@ -8,8 +8,9 @@ Ryo's SLA Policy:
 - SLA Delivery
   + Orders that arrive at the destination hub before 11:00 AM must be successfully delivered on the same day.
   + If they arrive after 11:00 AM, they must be delivered by the next working day, with status granular_status = 'Completed'. This also excludes Sundays and public holidays.
-  
-1. Operations Departtment
+
+1. Operations Department
+
 Goals:
 - Track order progress and analyze delivery performance
 - Evaluate delivery staff efficiency and performance at each hub
