@@ -47,7 +47,7 @@ Requirements:
   + Describe customer profiles to inform targeted marketing and retention plans.
   + Propose actionable strategies to acquire new customers, boost service adoption in underpenetrated regions, and enhance the effectiveness of sales campaigns and promotional planning.
 
-# Company Solution
+# Findings
 ### Operation Department
 
 **1. Create Sla_delivery and calculate the sucessful on-time delivery rate (before sla_delivery) by hub, driver, and shipper.**
