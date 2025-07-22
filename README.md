@@ -2,7 +2,7 @@
 Ryo is a logistics provider covering 100% of Southeast Asia. It offers end-to-end services from transportation to warehousing, mainly for e-commerce businesses. With increasing demands in data processing and analysis, Ryo has adopted Business Intelligence (BI) solutions to optimize operations and enhance customer experience. By doing this, Ryo can analyze parcel delivery performance from First Mile to Last Mile, evaluate KPIs across teams, and present findings via a BI dashboard and presentation slides.
 
 Insights and recommendations are provided on following key areas:
-**- Order tracking**:  Analyze parcel volumes by status over time, monitor delivery timelines, and evaluate SLA compliance for pickups and deliveries.
+- **Order Tracking**:  Analyze parcel volumes by status over time, monitor delivery timelines, and evaluate SLA compliance for pickups and deliveries.
 - **Delivery staff & Hub Performance Analysis**: Measure key performance indicators (KPIs) such as delivery success rate, on-time rate, and average delivery time, while assessing SLA compliance at the hub, driver, and shop levels. Identify underperforming areas and propose operational improvements.
 
 Ryo's SLA Policy:
